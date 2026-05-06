@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "escrow",
+    "yield_router",
+]
+resolver = "2"
