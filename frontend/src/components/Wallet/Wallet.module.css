@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.address {
+  font-family: monospace;
+  background: var(--secondary);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+}
+
+.error {
+  color: var(--error);
+  font-size: 0.8rem;
+}

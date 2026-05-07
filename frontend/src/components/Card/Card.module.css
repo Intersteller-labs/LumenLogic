@@ -1,0 +1,22 @@
+.card {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--primary);
+}
+
+.content {
+  flex: 1;
+}
+
+.footer {
+  margin-top: 1rem;
+  border-top: 1px solid var(--card-border);
+  padding-top: 1rem;
+}
